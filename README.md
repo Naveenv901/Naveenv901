@@ -27,7 +27,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Naveenv901/LeetCode-Stats-Card" target="_blank">
-    <img title="Naveen's LeetCode Stats" alt="Naveen's LeetCode Stats" src="https://leetcard.NaveenVajjiravel/NaveenVajjiravel?theme=unicorn&font=Paprika&ext=activity" />
+    <a href="https://github.com/Naveenv901/LeetCode-Stats-Card" target="_blank">
+    <img title="Naveen's LeetCode Stats" alt="Naveen's LeetCode Stats" src="https://leetcard.Naveen.cool/JacobLinCool?theme=unicorn&font=Paprika&ext=activity" />
   </a>
 </p>
